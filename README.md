@@ -13,6 +13,7 @@ The screenshot below shows the final Tableau Sales Performance Dashboard.
 ![Sales Performance Dashboard](Dashboard.png)
 
 
+
 ---
 
 ## 🎯 Project Objectives
